@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5bad0e0c-4c1c-4cae-a26c-a0ff362bff7d" name="lsweb" url="http://lehrerservice.joe.zv">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
