@@ -1,0 +1,6 @@
+<keymap version="1" name="gb2" parent="Mac OS X 10.5+">
+  <action id="HippieBackwardCompletion" />
+  <action id="HippieCompletion">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+  </action>
+</keymap>
