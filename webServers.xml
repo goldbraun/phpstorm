@@ -7,6 +7,9 @@
       <webServer id="ca8d98cf-668e-47c3-87c0-d57f8e7955a2" name="oopphp" url="http://oopphp/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="678ffbd0-f5bc-458c-bb5a-3bb54c15da0f" name="inter-praesentation-feb17" url="http://inter-praesentation-feb17">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
