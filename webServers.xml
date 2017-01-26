@@ -10,6 +10,9 @@
       <webServer id="678ffbd0-f5bc-458c-bb5a-3bb54c15da0f" name="inter-praesentation-feb17" url="http://inter-praesentation-feb17">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="49e214ca-cc1a-4f52-9019-b3938281e4ea" name="lynda-oop-php" url="http://lynda-oop-php/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
