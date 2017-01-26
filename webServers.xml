@@ -13,6 +13,9 @@
       <webServer id="49e214ca-cc1a-4f52-9019-b3938281e4ea" name="lynda-oop-php" url="http://lynda-oop-php/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c7821648-ac75-4c23-b2cb-c7ced89f1cf2" name="ajax-php" url="http://ajax-php/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
