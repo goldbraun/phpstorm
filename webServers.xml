@@ -16,6 +16,9 @@
       <webServer id="c7821648-ac75-4c23-b2cb-c7ced89f1cf2" name="ajax-php" url="http://ajax-php/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7a4d8257-dd4e-44b2-8514-907992eebfe2" name="inxmail" url="http://inxmail">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
