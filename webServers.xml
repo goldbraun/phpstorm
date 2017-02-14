@@ -19,6 +19,9 @@
       <webServer id="7a4d8257-dd4e-44b2-8514-907992eebfe2" name="inxmail" url="http://inxmail">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="7d2b9912-bb2b-4791-adf8-2a0d3c8bb3ff" name="ls-downloads" url="http://ls-downloads">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
