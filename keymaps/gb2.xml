@@ -3,6 +3,9 @@
   <action id="HippieCompletion">
     <keyboard-shortcut first-keystroke="ctrl slash" />
   </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
