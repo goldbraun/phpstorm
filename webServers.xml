@@ -22,6 +22,9 @@
       <webServer id="7d2b9912-bb2b-4791-adf8-2a0d3c8bb3ff" name="ls-downloads" url="http://ls-downloads">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="ac9826be-bb83-4992-adfc-1fc2d2ea7fc1" name="inter-praesentation-mai17" url="http://inter-praesentation-mai17">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
