@@ -25,6 +25,9 @@
       <webServer id="ac9826be-bb83-4992-adfc-1fc2d2ea7fc1" name="inter-praesentation-mai17" url="http://inter-praesentation-mai17">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f55e5cde-d966-46d2-b1d1-1c107c22a0ee" name="lynda-ecmascript" url="http://lynda-ecmascript">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
