@@ -28,6 +28,9 @@
       <webServer id="f55e5cde-d966-46d2-b1d1-1c107c22a0ee" name="lynda-ecmascript" url="http://lynda-ecmascript">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="96410299-bb23-4e58-9aa9-5a632969ed6d" name="greensock" url="http://greensock">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
