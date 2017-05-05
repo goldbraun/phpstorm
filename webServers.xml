@@ -31,6 +31,9 @@
       <webServer id="96410299-bb23-4e58-9aa9-5a632969ed6d" name="greensock" url="http://greensock">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="5c6887d2-5d90-4b6b-b5c2-6eb03dd913c8" name="joezvtest" url="http://joezvtest">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
