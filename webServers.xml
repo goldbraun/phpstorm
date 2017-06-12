@@ -37,6 +37,9 @@
       <webServer id="6d698c84-828a-448b-8faa-c4fa3d35a032" name="dev.lehrerservice.joe.zv" url="http://dev.lehrerservice.joe.zv/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="af9d4317-c25f-42fc-aec6-9a2777c9ec7d" name="www.lehrerservice.joe.zv" url="https://www.lehrerservice.joe.zv">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
