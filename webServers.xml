@@ -43,6 +43,9 @@
       <webServer id="1c2236c7-2eba-44e1-a640-12078ebf6efb" name="www.lehrerservice.joe.zv (1)" url="https://www.lehrerservice.joe.zv">
         <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/dev/apollo/builds/development/lsweb" accessType="MOUNT" />
       </webServer>
+      <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="https://www.kindergartenservice.joe.zv">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
