@@ -40,6 +40,9 @@
       <webServer id="af9d4317-c25f-42fc-aec6-9a2777c9ec7d" name="www.lehrerservice.joe.zv" url="https://www.lehrerservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="1c2236c7-2eba-44e1-a640-12078ebf6efb" name="www.lehrerservice.joe.zv" url="https://www.lehrerservice.joe.zv">
+        <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/dev/apollo/builds/development/lsweb" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
