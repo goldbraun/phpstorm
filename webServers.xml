@@ -37,13 +37,13 @@
       <webServer id="6d698c84-828a-448b-8faa-c4fa3d35a032" name="dev.lehrerservice.joe.zv" url="http://dev.lehrerservice.joe.zv/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="af9d4317-c25f-42fc-aec6-9a2777c9ec7d" name="www.lehrerservice.joe.zv" url="https://www.lehrerservice.joe.zv">
+      <webServer id="af9d4317-c25f-42fc-aec6-9a2777c9ec7d" name="www.lehrerservice.joe.zv" url="http://www.lehrerservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="1c2236c7-2eba-44e1-a640-12078ebf6efb" name="www.lehrerservice.joe.zv (1)" url="https://www.lehrerservice.joe.zv">
+      <webServer id="1c2236c7-2eba-44e1-a640-12078ebf6efb" name="www.lehrerservice.joe.zv (1)" url="http://www.lehrerservice.joe.zv">
         <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/dev/apollo/builds/development/lsweb" accessType="MOUNT" />
       </webServer>
-      <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="https://www.kindergartenservice.joe.zv">
+      <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="http://www.kindergartenservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
