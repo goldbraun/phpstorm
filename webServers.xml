@@ -46,6 +46,9 @@
       <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="http://www.kindergartenservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f57a3e0d-b72a-4d5f-aff6-2b33ae387a27" name="Apollo Content Mac PRO" url="http://www.lehrerservice.joe.zv">
+        <fileTransfer port="0" mountedRoot="/Volumes/Websites/apollo" accessType="MOUNT" />
+      </webServer>
     </option>
   </component>
 </application>
