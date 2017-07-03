@@ -40,14 +40,8 @@
       <webServer id="af9d4317-c25f-42fc-aec6-9a2777c9ec7d" name="www.lehrerservice.joe.zv" url="http://www.lehrerservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="1c2236c7-2eba-44e1-a640-12078ebf6efb" name="apolllo development Mac PRO" url="http://www.lehrerservice.joe.zv">
-        <fileTransfer port="0" mountedRoot="$USER_HOME$/Sites/dev/apollo" accessType="MOUNT" />
-      </webServer>
       <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="http://www.kindergartenservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
-      </webServer>
-      <webServer id="f57a3e0d-b72a-4d5f-aff6-2b33ae387a27" name="Apollo Content Mac PRO" url="http://www.lehrerservice.joe.zv">
-        <fileTransfer port="0" mountedRoot="/Volumes/Websites/apollo" accessType="MOUNT" />
       </webServer>
     </option>
   </component>
