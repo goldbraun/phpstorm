@@ -1,8 +1,11 @@
 <application>
   <component name="FindSettings">
+    <option name="customScope" value="File '.../_source/_js/custom/scripts.js - [iMac www.lehrerservice.joe.zv]'" />
+    <option name="defaultScopeName" value="File '.../_source/_js/custom/scripts.js - [iMac www.lehrerservice.joe.zv]'" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="wholeWordsOnly" value="true" />
     <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
+    <option name="SEARCH_SCOPE" value="File '.../_source/_js/custom/scripts.js - [iMac www.lehrerservice.joe.zv]'" />
   </component>
 </application>
