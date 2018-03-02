@@ -11,14 +11,24 @@
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Menlo" />
-  <option name="CONSOLE_FONT_SIZE" value="12" />
-  <option name="CONSOLE_LINE_SPACING" value="1.1" />
+  <option name="CONSOLE_FONT_SIZE" value="13" />
+  <option name="CONSOLE_LINE_SPACING" value="1.2" />
   <colors>
     <option name="CONSOLE_BACKGROUND_KEY" value="1f2a31" />
     <option name="GUTTER_BACKGROUND" value="182327" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="32424a" />
   </colors>
   <attributes>
+    <option name="CONSOLE_GRAY_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="d3d3d3" />
+      </value>
+    </option>
+    <option name="CONSOLE_RED_OUTPUT">
+      <value>
+        <option name="FOREGROUND" value="ff3c3c" />
+      </value>
+    </option>
     <option name="CSS.COLOR">
       <value />
     </option>
