@@ -43,11 +43,14 @@
       <webServer id="56b8f022-1010-49c7-aab4-b4ff3618c180" name="www.kindergartenservice.at" url="http://www.kindergartenservice.joe.zv">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="f000f656-e308-4048-938e-35fa39c1d1d6" name="www.lehrerservice.joe.zv" url="http://www.lehrerservice.joe.zv">
+      <webServer id="f000f656-e308-4048-938e-35fa39c1d1d6" name="www.lehrerservice.joe.zv (1)" url="http://www.lehrerservice.joe.zv">
         <fileTransfer port="0" mountedRoot="/Volumes/Websites/apollo/builds/development/lsweb" accessType="MOUNT" />
       </webServer>
       <webServer id="b310ca50-5fc7-44dc-9d02-a1ca084d3ade" name="LS Content" url="http://www.lehrerservice.joe.zv">
         <fileTransfer port="0" mountedRoot="/Volumes/Websites/apollo" accessType="MOUNT" />
+      </webServer>
+      <webServer id="501226e5-97aa-49e2-9c1a-024bcf892fca" name="lynda-php-oop" url="http://lynda-php-oop/">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
