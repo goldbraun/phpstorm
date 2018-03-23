@@ -1,0 +1,3 @@
+<templateSet group="Symfony">
+  <template name="&lt;abc&gt;" value="test" toReformat="false" toShortenFQNames="true" />
+</templateSet>
