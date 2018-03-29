@@ -52,6 +52,9 @@
       <webServer id="501226e5-97aa-49e2-9c1a-024bcf892fca" name="lynda-php-oop" url="http://lynda-php-oop/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2a6d1749-49ab-4362-bf40-4fe078e31f5e" name="knp-oop" url="http://knp-oop">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
