@@ -55,6 +55,9 @@
       <webServer id="2a6d1749-49ab-4362-bf40-4fe078e31f5e" name="knp-oop" url="http://knp-oop">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="c5d2a165-ca70-405b-b528-c039f40d6a7e" name="dependency-injection" url="http://dependency-injection/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
