@@ -58,6 +58,9 @@
       <webServer id="c5d2a165-ca70-405b-b528-c039f40d6a7e" name="dependency-injection" url="http://dependency-injection/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3da933b6-db12-4d4b-9798-d7d3ae41be90" name="rest" url="http://rest">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
