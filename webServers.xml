@@ -61,6 +61,9 @@
       <webServer id="3da933b6-db12-4d4b-9798-d7d3ae41be90" name="rest" url="http://rest">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3008a2b6-dca8-49fe-83f8-bd6c9a9a4eca" name="www.lehrerservice-bv.joe.zv" url="http://www.lehrerservice-bv.joe.zv/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
