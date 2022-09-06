@@ -1,10 +1,9 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="premium" value="true" />
     <option name="accentColor" value="416a9b" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="-41b1d9db:1735c0c7b3c:-7fff" />
-    <option name="version" value="6.9.1" />
+    <option name="version" value="7.9.0" />
   </component>
 </application>
