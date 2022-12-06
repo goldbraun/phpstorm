@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d3ae179d-d16b-4d61-bf7d-20902f7384c2" name="Filerun" url="http://filerun/my-files/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
+    </option>
+  </component>
+</application>
