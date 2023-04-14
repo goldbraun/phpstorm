@@ -4,6 +4,9 @@
       <webServer id="d3ae179d-d16b-4d61-bf7d-20902f7384c2" name="Filerun" url="http://filerun/my-files/">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
+      <webServer id="c5959ea8-5f26-427d-80d4-7bccef55a8d9" name="tutory" url="http://tutory/">
+        <fileTransfer accessType="LOCAL" port="0" />
+      </webServer>
     </option>
   </component>
 </application>
